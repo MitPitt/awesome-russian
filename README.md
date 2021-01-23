@@ -22,6 +22,7 @@
 ## Данные
 - [Russian awesome open data list](https://github.com/infoculture/awesome-opendata-rus#readme) — Открытые данные на русском языке.
 - [Открытые государственные бюджеты](https://github.com/infoculture/awesome-openbudget#readme)
+- [Osint-Resources](https://github.com/OldBonhart/Osint-Resources#readme) — Поиск людей по открытым и слитым данным.
 
 ## Игры
 - [ChGK Resources](https://github.com/gltronred/awesome-chgk#readme) — Ресурсы по игре "Что? Где? Когда?"
