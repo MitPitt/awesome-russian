@@ -15,8 +15,9 @@
 
 ## IT
 - [Awesome Russian IT](https://github.com/unchase/awesome-russian-it#readme) — Список полезных русскоязычных ресурсов, связанных с ИТ.
+- [russia-it-podcast](https://github.com/avevlad/russia-it-podcast#readme) — Список русскоязычных подкастов на тему информационных технологий.
 - [Awesome Made by Russians](https://github.com/igoradamenko/awesome-made-by-russians#readme) — Лучшие проекты на GitHub от русских разработчиков.
-- [Awesome DevSecOps на русском языке](https://github.com/Swordfish-Security/awesome-devsecops-russia#readme) — Полная обновляемая подборка материалов по безопасной разработке, DevSecOps и SSDLC на русском языке.
+- [Awesome DevSecOps на русском языке](https://github.com/Swordfish-Security/awesome-devsecops-russia#readme) — Подборка материалов по безопасной разработке, DevSecOps и SSDLC.
 - [awesome-gov-opensource-russia](https://github.com/infoculture/awesome-gov-opensource-russia#readme) — Список российских государственных проектов с открытым кодом.
 
 ## Данные
